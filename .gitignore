@@ -1,0 +1,4 @@
+/.vagrant/
+*.log
+
+/vagrant/skipfish-2.10b/skipfish
